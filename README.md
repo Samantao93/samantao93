@@ -13,9 +13,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=power-bi)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=1572B6)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi&logoColor=F2C811)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ## Soft Skills
