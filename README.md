@@ -1,27 +1,31 @@
-## Hi there, I'm Samanta 👋. Good coding!
+# Hi there, I'm Samanta 👋. 
+💻 Senior Data Scientist (Bioinformatics)
+📍 From Spain
 
-<!--
-- Contact:
-  - [Portfolio](https://samantao93.github.io/portfolio/)
-  - [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/de72d515-d798-4477-9810-f2c0d7725781" />](https://www.linkedin.com/in/samanta-ortuno/)
-  - [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a68aa05a-36f1-4f2d-af55-14f112cec1a9" />](https://orcid.org/0000-0003-0731-6975)
-  - [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a5a01b82-bb4e-417f-8bad-92349eb96d63" />](mailto:samanta.ortuno@gmail.com)
+## About me
+- ⚙️ Currently working on the automation of bioinformatics workflows, medical image segmentation, and deep learning algorithms for diagnosis and prognosis prediction.  
+- 🌱 Expanding my knowledge in advanced deep learning techniques, explainable AI, and full-stack development.  
+- 🤝 Open to collaborating on projects related to bioinformatics, data science, and artificial intelligence.  
 
- 
+## Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
+![Power BI](https://img.shields.io/badge/-PowerBI-333?style=flat&logo=powerbi)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
+## Soft Skills
+![Teamwork & Independence](https://img.shields.io/badge/-Teamwork%20&%20Independence-333?style=flat&logo=teamspeak)
+![Mentoring](https://img.shields.io/badge/-Mentoring-333?style=flat&logo=supervisoraccount)
+![Communication](https://img.shields.io/badge/-Communication-333?style=flat&logo=googlemeet)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-333?style=flat&logo=bulma)
+![Decision Making](https://img.shields.io/badge/-Decision%20Making-333?style=flat&logo=checkmarx)
+![Adaptability](https://img.shields.io/badge/-Adaptability-333?style=flat&logo=authelia)
+![Continuous Learning](https://img.shields.io/badge/-Continuous%20Learning-333?style=flat&logo=bookstack)
 
 
-
-<!--
-**Samantao93/samantao93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Good coding!
