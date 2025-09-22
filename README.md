@@ -1,6 +1,7 @@
 # Hi there, I'm Samanta 👋. 
 💻 Senior Data Scientist (Bioinformatics)
 📍 From Spain
+💼 [Visit my portfolio](https://samantao93.github.io/portfolio)
 
 ## About me
 - ⚙️ Currently working on the automation of bioinformatics workflows, medical image segmentation, and deep learning algorithms for diagnosis and prognosis prediction.  
