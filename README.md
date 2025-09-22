@@ -1,6 +1,6 @@
 ## Hi there, I'm Samanta 👋. Good coding!
 
-
+<!--
 - Contact:
   - [Portfolio](https://samantao93.github.io/portfolio/)
   - [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/de72d515-d798-4477-9810-f2c0d7725781" />](https://www.linkedin.com/in/samanta-ortuno/)
