@@ -1,7 +1,7 @@
 ## Hi there, I'm Samanta 👋. Good coding!
 
 
-- Contact with me:
+- Contact:
   - [Portfolio](https://samantao93.github.io/portfolio/)
   - [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/de72d515-d798-4477-9810-f2c0d7725781" />](https://www.linkedin.com/in/samanta-ortuno/)
   - [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a68aa05a-36f1-4f2d-af55-14f112cec1a9" />](https://orcid.org/0000-0003-0731-6975)
