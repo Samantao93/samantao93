@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Samanta 👋. Good coding!
+
+
+- Contact with me:
+  - [Portfolio](https://samantao93.github.io/portfolio/)
+  - [<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/de72d515-d798-4477-9810-f2c0d7725781" />](https://www.linkedin.com/in/samanta-ortuno/)
+  - [<img width="900" height="543" alt="image" src="https://github.com/user-attachments/assets/a68aa05a-36f1-4f2d-af55-14f112cec1a9" />](https://orcid.org/0000-0003-0731-6975)
+  - [<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/22c0587a-8187-41d3-85c7-4a37c18661d4" />](mailto:samanta.ortuno@gmail.com)
+
+ 
+
+
 
 <!--
 **Samantao93/samantao93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
