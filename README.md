@@ -20,12 +20,10 @@
 
 ## Soft Skills
 ![Teamwork & Independence](https://img.shields.io/badge/-Teamwork%20&%20Independence-333?style=flat&logo=teamspeak)
-![Mentoring](https://img.shields.io/badge/-Mentoring-333?style=flat&logo=supervisor)
 ![Mentoring](https://img.shields.io/badge/-Mentoring-333?style=flat&logo=googlescholar)
 ![Communication](https://img.shields.io/badge/-Communication-333?style=flat&logo=googlemeet)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-333?style=flat&logo=bulma)
 ![Decision Making](https://img.shields.io/badge/-Decision%20Making-333?style=flat&logo=checkmarx)
-![Adaptability](https://img.shields.io/badge/-Adaptability-333?style=flat&logo=authelia)
 ![Adaptability](https://img.shields.io/badge/-Adaptability-333?style=flat&logo=elastic)
 ![Continuous Learning](https://img.shields.io/badge/-Continuous%20Learning-333?style=flat&logo=bookstack)
 
