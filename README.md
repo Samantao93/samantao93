@@ -8,7 +8,6 @@
 - 🤝 Open to collaborating on projects related to bioinformatics, data science, and artificial intelligence.  
 
 ## Technologies & Tools
-## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/-R-333?style=flat&logo=r&logoColor=276DC3)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FCC624)
