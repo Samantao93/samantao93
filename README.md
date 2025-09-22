@@ -13,9 +13,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=F05032)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=336791)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+![Power BI](https://badgen.net/badge/icon/powerbi?icon=powerbi&label)
+![HTML5](https://badgen.net/badge/icon/html5?icon=html5&label)
+![CSS3](https://badgen.net/badge/icon/css3?icon=css3&label)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E)
 
 
