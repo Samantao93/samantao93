@@ -8,15 +8,17 @@
 - 🤝 Open to collaborating on projects related to bioinformatics, data science, and artificial intelligence.  
 
 ## Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=3776AB)
+![R](https://img.shields.io/badge/-R-333?style=flat&logo=r&logoColor=276DC3)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=F05032)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=336791)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=1572B6)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi&logoColor=F2C811)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E)
+
 
 ## Soft Skills
 ![Teamwork & Independence](https://img.shields.io/badge/-Teamwork%20&%20Independence-333?style=flat&logo=teamspeak)
