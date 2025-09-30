@@ -10,6 +10,11 @@
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=3776AB)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas&logoColor=150458)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikit-learn&logoColor=F7931E)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch&logoColor=EE4C2C)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras&logoColor=D00000)
 ![R](https://img.shields.io/badge/-R-333?style=flat&logo=r&logoColor=276DC3)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=F05032)
