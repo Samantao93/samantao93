@@ -9,21 +9,21 @@
 - 🤝 Open to collaborating on projects related to bioinformatics, data science, and artificial intelligence.  
 
 ## Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikit-learn&logoColor=F7931E)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch&logoColor=EE4C2C)
-![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras&logoColor=D00000)
-![R](https://img.shields.io/badge/-R-333?style=flat&logo=r&logoColor=276DC3)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=F05032)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras&logoColor=white)
+![R](https://img.shields.io/badge/-R-333?style=flat&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=336791)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi&logoColor=F2C811)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=white)
 
 
 
