@@ -28,13 +28,13 @@
 
 
 ## Soft Skills
-![Teamwork & Independence](https://img.shields.io/badge/-Teamwork%20&%20Independence-333?style=flat&logo=teamspeak)
-![Mentoring](https://img.shields.io/badge/-Mentoring-333?style=flat&logo=googlescholar)
-![Communication](https://img.shields.io/badge/-Communication-333?style=flat&logo=googlemeet)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-333?style=flat&logo=bulma)
-![Decision Making](https://img.shields.io/badge/-Decision%20Making-333?style=flat&logo=checkmarx)
-![Adaptability](https://img.shields.io/badge/-Adaptability-333?style=flat&logo=elastic)
-![Continuous Learning](https://img.shields.io/badge/-Continuous%20Learning-333?style=flat&logo=bookstack)
+![Teamwork & Independence](https://img.shields.io/badge/-Teamwork%20&%20Independence-333?style=flat&logo=teamspeak&logoColor=white)
+![Mentoring](https://img.shields.io/badge/-Mentoring-333?style=flat&logo=googlescholar&logoColor=white)
+![Communication](https://img.shields.io/badge/-Communication-333?style=flat&logo=googlemeet&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-333?style=flat&logo=bulma&logoColor=white)
+![Decision Making](https://img.shields.io/badge/-Decision%20Making-333?style=flat&logo=checkmarx&logoColor=white)
+![Adaptability](https://img.shields.io/badge/-Adaptability-333?style=flat&logo=elastic&logoColor=white)
+![Continuous Learning](https://img.shields.io/badge/-Continuous%20Learning-333?style=flat&logo=bookstack&logoColor=white)
 
 
 ### Good coding!
