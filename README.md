@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=white)
