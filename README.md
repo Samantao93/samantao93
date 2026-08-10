@@ -28,15 +28,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333?style=flat&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-333?style=flat&logo=googlecloud&logoColor=white)
+![Google Cloud & Vertex AI](https://img.shields.io/badge/-Google_Cloud-333?style=flat&logo=googlecloud&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-333?style=flat&logo=qgis&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-333?style=flat)
-![REDCap](https://img.shields.io/badge/-REDCap-333?style=flat)
-![OMOP--CDM](https://img.shields.io/badge/-OMOP--CDM-333?style=flat)
 
 ## Soft Skills
 ![Teamwork & Independence](https://img.shields.io/badge/-Teamwork%20&%20Independence-333?style=flat&logo=teamspeak&logoColor=white)
