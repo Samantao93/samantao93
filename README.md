@@ -17,6 +17,8 @@
 ![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/Rasterio-333?style=flat&logo=python&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-333?style=flat&logo=python&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-333?style=flat&logo=polars&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-333?style=flat&logo=apachespark&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-333?style=flat&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb&logoColor=white)
 ![R](https://img.shields.io/badge/-R-333?style=flat&logo=r&logoColor=white)
@@ -32,8 +34,6 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-333?style=flat&logo=qgis&logoColor=white)
-![Polars](https://img.shields.io/badge/-Polars-333?style=flat&logo=polars&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-333?style=flat&logo=apachespark&logoColor=white)
 
 
 ## Soft Skills
