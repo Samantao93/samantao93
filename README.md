@@ -32,7 +32,9 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-333?style=flat&logo=qgis&logoColor=white)
-![Shiny (RStudio)](https://img.shields.io/badge/-Shiny-333?style=flat&logo=rstudio&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-333?style=flat)
+![OpenCode](https://img.shields.io/badge/-OpenCode-333?style=flat)
+
 
 ## Soft Skills
 ![Teamwork & Independence](https://img.shields.io/badge/-Teamwork%20&%20Independence-333?style=flat&logo=teamspeak&logoColor=white)
