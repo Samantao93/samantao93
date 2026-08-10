@@ -32,6 +32,8 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-333?style=flat&logo=qgis&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-333?style=flat&logo=polars&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-333?style=flat&logo=apachespark&logoColor=white)
 
 
 ## Soft Skills
