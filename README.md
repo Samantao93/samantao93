@@ -1,5 +1,5 @@
 # Hi there, I'm Samanta 👋. 
-💻 AI Engineering/Senior Data Scientist/Bioinformatics
+💻 AI Engineering/Data Scientist/Bioinformatics
 📍 From Spain
 💼 [Visit my portfolio](https://samantao93.github.io/portfolio)
 
